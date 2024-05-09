@@ -1,1 +1,2 @@
 # EDA-of-Titanic.csv-
+In computer science, Artificial intelligence, Machine learning, Data Science these terms has becomes so popular In a short duration of time because of the power of these areas. We are here to do EDA on the titanic data set as mentioned in the title of the blog. And we all know EDA is The Most important part to build a good Machine Learning or Artificial intelligence Model. So in this blog, we will learn the basics of EDA.
